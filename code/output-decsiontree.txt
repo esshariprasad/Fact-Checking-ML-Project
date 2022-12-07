@@ -1,0 +1,815 @@
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 0 0 0 0 1]
+running experiments for split 43
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[1]
+running experiments for split 44
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 0]
+running experiments for split 45
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 0 0]
+running experiments for split 46
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0]
+running experiments for split 47
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0]
+running experiments for split 48
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 1 0 1 0]
+running experiments for split 49
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 1]
+running experiments for split 50
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0]
+running experiments for split 51
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0]
+running experiments for split 52
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[1 1 1 0 1 1 0 1]
+running experiments for split 53
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 1 0]
+running experiments for split 54
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0]
+running experiments for split 55
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 0]
+running experiments for split 56
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 0 0 0 0 1]
+running experiments for split 57
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0]
+running experiments for split 58
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 0]
+running experiments for split 59
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0]
+running experiments for split 60
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0]
+running experiments for split 61
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 0 0]
+running experiments for split 62
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 1]
+running experiments for split 63
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 0 0 0]
+running experiments for split 64
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0]
+running experiments for split 65
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[1 1 1 1 1 1 1 1 1 1]
+running experiments for split 66
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 0 0]
+running experiments for split 67
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[1 0 1 1]
+running experiments for split 68
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0]
+running experiments for split 69
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0 0 1 0 0 0 0 0 0 0]
+running experiments for split 70
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+---Reading features from index for dev+test IRF_QL_only_withPages_reputed-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_reputed_only
+Building model... {'criterion': 'entropy', 'max_depth': 8, 'n_estimators': 50}
+Training with predefined params...
+[0]
+parsing... ../../../data/input/input-dev+test.xml
+evaluate...
+20 50 71 108
+parsing... ../../../data/input/input-dev+test.xml
+Running  IRF_QL_only_withPages_split-incl
+--RUN_ID:  IRF_QL_only_withPages_split-incl
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... None
+Perform grid search for finding the best params...
+best params:  {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+best score:  0.7071836734693878
+best estimator:  RandomForestClassifier(criterion='log_loss', max_depth=4, n_estimators=30)
+running experiments for split 0
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 0 1 0 1]
+running experiments for split 1
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 0 0]
+running experiments for split 2
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1]
+running experiments for split 3
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 0]
+running experiments for split 4
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0]
+running experiments for split 5
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0]
+running experiments for split 6
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0]
+running experiments for split 7
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1 1]
+running experiments for split 8
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 0 0 0 1 1]
+running experiments for split 9
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0 0]
+running experiments for split 10
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0 1 1]
+running experiments for split 11
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0 0]
+running experiments for split 12
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0 0]
+running experiments for split 13
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1]
+running experiments for split 14
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 0 0 0]
+running experiments for split 15
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1 0]
+running experiments for split 16
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0 1 1 0]
+running experiments for split 17
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 0 0 0 0]
+running experiments for split 18
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 0 1]
+running experiments for split 19
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0]
+running experiments for split 20
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1 1]
+running experiments for split 21
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1]
+running experiments for split 22
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0 0 0 0]
+running experiments for split 23
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0]
+running experiments for split 24
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0]
+running experiments for split 25
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0]
+running experiments for split 26
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 1 1]
+running experiments for split 27
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 0 0]
+running experiments for split 28
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0 0 1]
+running experiments for split 29
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1]
+running experiments for split 30
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 1 0 0]
+running experiments for split 31
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1 1 1 1 1 1 1 1]
+running experiments for split 32
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 0 0 1 1]
+running experiments for split 33
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 1]
+running experiments for split 34
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0]
+running experiments for split 35
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 0 0 0 0 1]
+running experiments for split 36
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 1 1 1 1]
+running experiments for split 37
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1]
+running experiments for split 38
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1]
+running experiments for split 39
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0]
+running experiments for split 40
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1]
+running experiments for split 41
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 1 0 0]
+running experiments for split 42
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1 1 1 1 1]
+running experiments for split 43
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0]
+running experiments for split 44
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0]
+running experiments for split 45
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 1 1 0]
+running experiments for split 46
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0]
+running experiments for split 47
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 0]
+running experiments for split 48
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1 0 1]
+running experiments for split 49
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0]
+running experiments for split 50
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0]
+running experiments for split 51
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0]
+running experiments for split 52
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1 0 1 1 0 1]
+running experiments for split 53
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 1 1 1]
+running experiments for split 54
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1]
+running experiments for split 55
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1]
+running experiments for split 56
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 0 1 0 0 1]
+running experiments for split 57
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 0]
+running experiments for split 58
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1]
+running experiments for split 59
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0]
+running experiments for split 60
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 0]
+running experiments for split 61
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 1 1 0]
+running experiments for split 62
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1]
+running experiments for split 63
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 0 0 1 1]
+running experiments for split 64
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0]
+running experiments for split 65
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 0 0 0 0 0 0 0 0 0]
+running experiments for split 66
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1 1]
+running experiments for split 67
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1 0]
+running experiments for split 68
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[0 1]
+running experiments for split 69
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1 1 1 1 1 1 1 1 1 1]
+running experiments for split 70
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+---Reading features from index for dev+test IRF_QL_only_withPages_split-incl
+Reading features from file:  ../../../data/features/semeval2016-dev+test-with-annotations-clear-true-false-only.xml.tab_format.ir.IR_QL_Only_Google_all_split
+Building model... {'criterion': 'log_loss', 'max_depth': 4, 'n_estimators': 30}
+Training with predefined params...
+[1]
+parsing... ../../../data/input/input-dev+test.xml
+evaluate...
+83 46 75 45
